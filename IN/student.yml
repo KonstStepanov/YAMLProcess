@@ -1,0 +1,12 @@
+id: 1
+name: Александр
+year: 2020
+address: Новосибирск
+department: Дизайнер
+courses:
+  - name: Адаптивная верстка
+    credits: 6
+  - name: Прототипирование интерфейсов
+    credits: 5
+  - name: Интерфейс Figma
+    credits: 3

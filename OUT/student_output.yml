@@ -1,0 +1,9 @@
+!!YAMLClasses.Student
+address: Вологда
+courses:
+- {credits: 1.0, name: Алгоритмы}
+- {credits: 1.0, name: Проектирование}
+department: Разработка
+id: 2
+name: Иван
+year: 2023
